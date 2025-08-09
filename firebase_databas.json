@@ -1,0 +1,82 @@
+{
+  "users": {
+    "user123uid": {
+      "detections": {
+        "kopek": {
+          "ses": 0,
+          "isik": 0,
+          "koku": 0
+        },
+        "ayi": {
+          "ses": 0,
+          "isik": 0,
+          "koku": 0
+        },
+        "domuz": {
+          "ses": 0,
+          "isik": 0,
+          "koku": 0
+        },
+        "kus": {
+          "ses": 0,
+          "isik": 0,
+          "koku": 0
+        },
+        "sansar": {
+          "ses": 0,
+          "isik": 0,
+          "koku": 0
+        },
+        "kurt": {
+          "ses": 0,
+          "isik": 0,
+          "koku": 0
+        },
+        "tilki": {
+          "ses": 0,
+          "isik": 0,
+          "koku": 0
+        }
+      }
+    },
+    "user456uid": {
+      "detections": {
+        "kopek": {
+          "ses": 1,
+          "isik": 1,
+          "koku": 1
+        },
+        "ayi": {
+          "ses": 0,
+          "isik": 0,
+          "koku": 0
+        },
+        "domuz": {
+          "ses": 0,
+          "isik": 0,
+          "koku": 0
+        },
+        "kus": {
+          "ses": 0,
+          "isik": 0,
+          "koku": 0
+        },
+        "sansar": {
+          "ses": 0,
+          "isik": 0,
+          "koku": 0
+        },
+        "kurt": {
+          "ses": 0,
+          "isik": 0,
+          "koku": 0
+        },
+        "tilki": {
+          "ses": 0,
+          "isik": 0,
+          "koku": 0
+        }
+      }
+    }
+  }
+}
